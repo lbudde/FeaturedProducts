@@ -30,7 +30,9 @@
     descrDE: "
       Experia Energie ist die nächste Generation von Experia und die technisch fortschrittlichste Leistungs-Socke der Welt. Experia Energie wurde von engagierten Läufer aller Leistungsstufen getestet.
       <br><br>
-      Anstrengende Tätigkeiten sind eine Belastung für Sehnen. Kompression im Bogen und Knöchel hilft dabei, Faszie und Achillessehnen zu unterstützen und zu stabilisieren.
+      Anstrengende Tätigkeiten sind eine Belastung für Sehnen. Kompression im Bogen und Knöchel hilft dabei, Faszie und Achillessehnen zu unterstützen und zu stabilisieren. 
+      <br><br>
+      Die Kompression umarmt den Fuß reduziert Ermüdungserscheinungen und beugt Schwellungen und Schäden an Muskeln und Gewebe vor. Das Ergebnis ist eine bessere Leistung mit weniger Muskelkater. Experia Energie wird mit Cutec Kupfer entwickelt und permanent in die Fasern eingearbeitet. Cutec ist einzigartig und hat mehrere Vorteile, darunter außergewöhnliche anti-Geruch und anti-Pilz- Eigenschaften für gesünder aussehende Haut sorgt.
     ",
     descrEN: "",
     query: '?query=xeou',
